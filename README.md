@@ -1,1 +1,0 @@
-# POC-rapidapi-badge-system
